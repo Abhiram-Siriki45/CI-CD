@@ -35,3 +35,7 @@ The steps that form a CI/CD pipeline are distinct subsets of tasks grouped into 
 * Release - The stage where the application is delivered to the repository.
 * Deploy - In this stage code is deployed to production.
 * Validate and check compliance - The steps to validate a build are determined by the needs of your organization. Image security scanning tools, like Clair, can ensure the quality of images by comparing them to known vulnerabilities (CVEs).
+<br>
+<br>
+
+[![Maintened by - Abhiram-Siriki45](https://img.shields.io/badge/Maintained%20by-Abhiram%20Siriki45-red)](https://github.com/Abhiram-Siriki45)
