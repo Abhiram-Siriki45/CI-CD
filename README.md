@@ -5,7 +5,7 @@
 
 Continuous Integration and Continuous Delivery/Deployment (CI/CD) is a Development Methodology that solves typical problems found during the integration process. As multiple developers work in parallel, it becomes increasingly difficult to maintain a main branch that works and is free of bugs and errors. With CI/CD, steps in the integration process are automated and the lifecycle of the app is constantly monitored. Ideally, this methodology will avoid "integration hell", a situation where multiple developers that have been working on separate features on their own find it impossible to integrate all their code without major conflicts, and have to spend time reviewing all of their code to fix it.
 
-For reference, this is the definition of "integration hell" based on the [Agile glossary](https://www.solutionsiq.com/agile-glossary/integration-hell/):
+For reference, this is the definition of "Integration Hell" based on the [Agile glossary](https://www.solutionsiq.com/agile-glossary/integration-hell/):
 > Integration Hell refers to the point in production when the members of a delivery team integrate their individual code. In traditional software development environments, this integration process is rarely smooth and seamless, instead resulting in hours or perhaps days of fixing the code so that it can finally integrate. Continuous Integration (CI) aims to avoid this completely by enabling and encouraging team members to integrate frequently (e.g., hourly, or at least daily).
 
 <img src="https://www.synopsys.com/content/dam/synopsys/sig-assets/images/agile-cicd-devops-difference.jpg.imgw.850.x.jpg" style="display: block; margin: auto; width: 50%">
